@@ -1,2 +1,5 @@
 
 .venv
+
+data/raw/RestaurantSales.xlsx
+data/raw/EmployeeRH.csv
