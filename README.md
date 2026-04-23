@@ -1,4 +1,4 @@
-# Python-ETL # Python ETL
+# Python-ETL
 
 Projeto de ETL (Extract, Transform, Load) desenvolvido em Python para manipulação e processamento de dados.
 
@@ -15,12 +15,11 @@ Projeto de ETL (Extract, Transform, Load) desenvolvido em Python para manipulaç
 
 ## Comandos Básicos
 
-| Comando | Descrição |
-|---------|-----------|
-| `python --version` | Verifica a versão do Python instalada |
-| `pip --version` | Verifica a versão do pip |
-| `pip list` | Lista todos os pacotes instalados |
-| `pip install <pacote>` | Instala um pacote |
-| `python script.py` | Executa um script Python |
-| `exit()` | Sai do interpretador Python |
-
+| Comando                | Descrição                             |
+| ---------------------- | ------------------------------------- |
+| `python --version`     | Verifica a versão do Python instalada |
+| `pip --version`        | Verifica a versão do pip              |
+| `pip list`             | Lista todos os pacotes instalados     |
+| `pip install <pacote>` | Instala um pacote                     |
+| `python script.py`     | Executa um script Python              |
+| `exit()`               | Sai do interpretador Python           |
